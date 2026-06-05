@@ -5,4 +5,8 @@ This repository is for practical implementation of all machine learning algorith
 <br>
 <br>
 
-courses- cs229, ML specialization course by Andrew Ng
+Courses- cs229 and ML specialization course by Andrew Ng
+
+<br>
+<br>
+Author- Priyanshu Shekhar
